@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@types/aws-lambda": "^8.10.101",
+    "aws-cdk-lib": "^2.34.2",
+    "aws-lambda": "^1.0.7",
+    "path": "^0.12.7"
+  }
+}
